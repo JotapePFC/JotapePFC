@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 I’m currently studying systems analysis and development
-- 💻 I’m currently learning JavaScript and React
+- 💻 Also I'm trying to improve my skills in JavaScript and React, doing some personal projects and stuff.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JotapePFC)](https://github.com/JotapePFC/github-readme-stats)
 
